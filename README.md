@@ -1,5 +1,5 @@
 # CameraSettings20k
-[[project page]](https://camera-settings-as-tokens.github.io/)[[demo]](https://huggingface.co/spaces/Camera-Settings-as-Tokens/Camera-Settings-as-Tokens)[[code]](https://github.com/aiiu-lab/Camera-Settings-as-Tokens)
+[[paper]](https://dl.acm.org/doi/10.1145/3680528.3687635)[[project page]](https://camera-settings-as-tokens.github.io/)[[demo]](https://huggingface.co/spaces/Camera-Settings-as-Tokens/Camera-Settings-as-Tokens)[[code]](https://github.com/aiiu-lab/Camera-Settings-as-Tokens)
 
 ![](preview.png)
 
