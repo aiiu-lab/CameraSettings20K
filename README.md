@@ -35,7 +35,7 @@ python data_curation.py --image_size <image_size> --source_dir <path to CameraSe
 ```
 This code will generate the CameraSettings20k dataset with the following structure for training with [diffusers](https://huggingface.co/docs/diffusers/en/index) and [datasets](https://huggingface.co/docs/datasets/en/index). 
 ```
-CameraSettings20k ┬ train ┬ metadata.jsonl
+CameraSettings20k - train ┬ metadata.jsonl
                           ├ <image_id_0>.png
                           ├ <image_id_1>.png
                           ├ ...
