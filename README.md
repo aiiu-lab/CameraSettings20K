@@ -57,9 +57,9 @@ If you use CameraSettings20K, please cite our paper.
 
 ```Bibtex
 @inproceedings{fang2024camera,
-  title={Camera Settings as Tokens: Modeling Photography on Latent Diffusion Models},
-  author={I-Sheng Fang and Yue-Hua Han and Jun-Cheng Chen},
-  booktitle={SIGGRAPH Asia},
-  year={2024}
-}
+      title={Camera Settings as Tokens: Modeling Photography on Latent Diffusion Models},
+      author={I-Sheng Fang and Yue-Hua Han and Jun-Cheng Chen},
+      booktitle={SIGGRAPH Asia 2024 Conference Papers},
+      year={2024}
+    }
 ```
